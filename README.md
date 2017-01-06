@@ -19,16 +19,14 @@ cd nanobox-echo
 ## Run the app
 
 ```bash
+# Add a convenient way to access your app from the browser
+nanobox dns add local echo.dev
+
 # Run Echo as you would normally, with Nanobox
 nanobox run go run server.go
 ```
 
 ## Check it out
-
-```bash
-# Add a convenient way to access your app from the browser
-nanobox dns add local echo.dev
-```
 
 Visit your app at <a href="http://echo.dev:1323" target="\_blank">echo.dev:1323</a>
 
