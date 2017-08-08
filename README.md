@@ -1,4 +1,4 @@
-![Echo from scratch](https://guides.nanobox.io/assets/quickstart-icons/echo.png)
+![Echo with Nanobox](https://guides.nanobox.io/assets/quickstart-icons/echo.png)
 
 # Echo from scratch
 
