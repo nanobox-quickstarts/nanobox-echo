@@ -19,7 +19,7 @@ cd nanobox-echo
 ## Run the app
 
 ```bash
-# Add a convenient way to access your app from the browser
+# Add a convenient way to access your app from a browser
 nanobox dns add local echo.dev
 
 # Run Echo as you would normally, with Nanobox
